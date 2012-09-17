@@ -3,10 +3,10 @@
 require_once(dirname(__FILE__).DIRECTORY_SEPARATOR.'phpmailer'.DIRECTORY_SEPARATOR.'class.phpmailer.php');
 
 /**
- * JPHPMailer - PHPMailer Japanese Edition
+ * JpMailer - PHPMailer Wrapper
  *
  * @license   LGPL
- * http://techblog.ecstudio.jp/tech-tips/mail-japanese-advance.html
+ * @link {{http://techblog.ecstudio.jp/tech-tips/mail-japanese-advance.html}}
  */
 class JpMailer
 {
